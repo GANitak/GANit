@@ -1,8 +1,9 @@
 {
     "github.gitProtocol": "ssh",
-    "json.trace.server": "messages",
+    
     "nix.serverSettings": {
 
     },
-    "remote.WSL.debug": true
+    "remote.WSL.debug": true,
+    "terminal.integrated.shellIntegration.history": 500
 }
