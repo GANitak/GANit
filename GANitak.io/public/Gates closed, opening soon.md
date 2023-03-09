@@ -12,7 +12,8 @@ This is where you'll see unfold the journey into the tech industry of a curious 
                          Love the world, love the people.
      There is always 1 things one can do in life.
                                         Hope & Thrive
-     Both are a choice, both can lead to great things, both are often disregarded as a weak process. You must stand in your weakest center, to know your strength. 
+     Both are a choice, both can lead to great things, both are often disregarded as a weak process. 
+     You must stand in your weakest center, to know your strength. 
                                    Observe, Learn, Act.
                     Cute little  O.L.A to the world for ya folks :)                            
                      ##########################################################################################
