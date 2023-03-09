@@ -1,0 +1,8 @@
+{
+    "github.gitProtocol": "ssh",
+    "json.trace.server": "messages",
+    "nix.serverSettings": {
+
+    },
+    "remote.WSL.debug": true
+}
