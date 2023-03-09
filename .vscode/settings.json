@@ -5,5 +5,15 @@
 
     },
     "remote.WSL.debug": true,
-    "terminal.integrated.shellIntegration.history": 5000
+    "terminal.integrated.shellIntegration.history": 5000,
+    "cSpell.words": [
+        "drawio",
+        "fontawesome",
+        "jsonify",
+        "katex",
+        "markmap",
+        "shortcode",
+        "shortcodes",
+        "tabpane"
+    ]
 }

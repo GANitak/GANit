@@ -2,5 +2,5 @@
 Here we are
 
 Building a website with Hugo
-It's gonna be funny to struggle with Git commands and Hugo settings !
-Let's go 
+Let it be time before this website appear, we shall see it open it's gates soon!
+Let's go have some fun!
