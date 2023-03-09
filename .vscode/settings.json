@@ -5,5 +5,5 @@
 
     },
     "remote.WSL.debug": true,
-    "terminal.integrated.shellIntegration.history": 500
+    "terminal.integrated.shellIntegration.history": 5000
 }
