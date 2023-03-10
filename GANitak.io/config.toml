@@ -2,3 +2,26 @@ baseURL = 'http://GANitak.io/'
 languageCode = 'en-us'
 title = '~GANitak~'
 theme = 'docsy'
+
+# Language settings
+contentDir = "content/en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+# Useful when translating.
+enableMissingTranslationPlaceholders = true
+
+enableRobotsTXT = true
+
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+enableEmoji = true
+
+# Comment out to enable taxonomies in Docsy
+# disableKinds = ["taxonomy", "taxonomyTerm"]
+
+# You can add your own taxonomies
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+
