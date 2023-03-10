@@ -19,11 +19,11 @@ This is where you'll see unfold the journey into the tech industry of a curious 
                     Cute little  O.L.A to the world for ya folks :)                            
 
 
-:info: 
+###:info: 
 So here i am building this website, with Hugo.
 You will see me struggle, and it will be fun.
 
-:state: 
+###:state: 
 I am currently struggling with the layout set up, a fix in the _default& all other dir, need to happen, but well, i was annoyed and bored so i continued working of the welcome page instead.
 Hopefully something will click in my brain about the issue soon =) 
 

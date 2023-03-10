@@ -12,6 +12,7 @@
         "jsonify",
         "katex",
         "markmap",
+        "pageinfo",
         "shortcode",
         "shortcodes",
         "tabpane"
